@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @makwaka
+- 👋 Hi, I’m @fariq
 - 👀 I’m interested in building cool software.
 - 🌱 I’m currently learning javscript.
 - 💞️ I’m looking to collaborate on cool projects dealing with javascript.
