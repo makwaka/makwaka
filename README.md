@@ -8,7 +8,7 @@ I have been learning to code for over 6 months now. I have already learned HTML 
 
 * 🌍  I'm based in KENYA.
 * ✉️  You can contact me at [pharisnjuguna22@gmail.com](mailto:pharisnjuguna22@gmail.com)
-* 🚀  I'm currently working on [A school demo website](http://makwaka.github.io/SJSS FILES/)
+* 🚀  I'm currently working on [A school demo website](https://makwaka.github.io/demowebschool.com/SJSS%20FILES/)
 * 🧠  I'm learning a new JAVASCRIPT framework - Maybe REACT
 * 🤝  I'm open to collaborating on all Interesting projects
 * ⚡  I love music and football.
