@@ -11,7 +11,8 @@ I have been learning to code for over 6 months now. I have already learned HTML 
 * 🚀  I'm currently working on [A school demo website](https://makwaka.github.io/demowebschool.com/SJSS%20FILES/)
 * 🧠  I'm learning a new JAVASCRIPT framework - Maybe REACT
 * 🤝  I'm open to collaborating on all Interesting projects
-* ⚡  I love music and football.
+* ⚡  I love good music and football.
+
 
 <a href="https://www.twitter.com/pharis_kariuki" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/pharis_kariuki?logo=twitter&style=for-the-badge&color=0891b2&labelColor=581c87"
